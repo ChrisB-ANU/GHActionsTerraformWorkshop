@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Variables
-RESOURCE_GROUP_NAME="tfstate-rg"
-STORAGE_ACCOUNT_NAME="tfstatewai991"
-CONTAINER_NAME="anuworkshop"
+RESOURCE_GROUP_NAME="tfstate-chrisb-rg"
+STORAGE_ACCOUNT_NAME="tfstatechrisb"
+CONTAINER_NAME="anuworkshop-chrisb"
 LOCATION="australiaeast"  # You can change this to your preferred Azure region
 
 # Create Resource Group
